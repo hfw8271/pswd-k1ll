@@ -1,0 +1,13 @@
+Hal Willims
+hfw8271@rit.edu
+Charlie
+github.com/hfw8271/pswd-k1ll
+
+What is the goal of this tool? What purpose does it bring to the competitions?
+  check the read me ;)
+
+Did other tools influence your tool? If so, what are they? If not, what was your inspiration for the tool?
+  I wanted to make a passwd shim, its similar to how retriever works, but retriever is definitely 100x better
+
+What is the feasibility of another team member quickly learning to use or contribute to your tool? What makes it easy or difficult to learn?
+  once i write it into our ansible deploy it will be very easy, and if I can make a nice UI itll be really easy for the team to use
